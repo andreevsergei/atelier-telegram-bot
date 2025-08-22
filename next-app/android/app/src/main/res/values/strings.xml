@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Next App</string>
+    <string name="title_activity_main">Next App</string>
+    <string name="package_name">com.example.nextapp</string>
+    <string name="custom_url_scheme">com.example.nextapp</string>
+</resources>
